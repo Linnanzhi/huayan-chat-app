@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pinyin": "^4.0.0-alpha.2",
+    "v-emoji-picker": "^2.3.3"
+  }
+}
